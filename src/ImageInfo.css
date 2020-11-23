@@ -1,0 +1,9 @@
+.image__info {
+  margin-bottom: 5px;
+}
+
+.info__title {
+  font-weight: bold;
+  display: inline-block;
+  /* width: 30%; */
+}
